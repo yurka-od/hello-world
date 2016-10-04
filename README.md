@@ -1,3 +1,4 @@
 # hello-world
 Repository
-hi my dear friends. Help me pleas lessons.
+Hi my dear friends. Help me pleas lessons.
+Буду учится и все получится.
